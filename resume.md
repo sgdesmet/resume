@@ -15,7 +15,7 @@
 1. Java
 1. JAX-RS (Jersey)
 1. Dependency Injection (Guice)
-1. Tomcat
+1. Hibernate
 1. MySQL
 3. Javascript / AngularJS
 1. Git
@@ -27,31 +27,19 @@
 ### Experience
 
 **linkID** *Software Development Engineer* __2011 to present__
-	Designed and maintained a number of different projects, involving development on both backend and frontend (web and mobile). 
-	**Technical Environment** Android, iOS, Windows Phone, AngularJS, Bootstrap, Jersey, Guice, MySQL, Tomcat
-    
-<!--    Design and and maintain 
-    Implement OAuth 2.0 protocol. 
-    	
-	iWish
-	linkID
-	OAuth
-	GuidoGids
-	Kookkado
-	Side projects: wifi portal, customer rewards, ticket validation -->
+	Designing and maintaining a number of different projects as a 'full-stack developer'. Past and current responsibilities include: maintaining and improving backend and mobile apps for the linkID project and creating the Windows Phone app. Designed and implemented backend and mobile apps for the GuidoGids project. Implemented backend and frontends for the iWish project. Maintained and expanded the Kookkado project backend and web frontend. Other side projects include developing a captive wifi portal, implementing OAuth 2.0  and developing proof of concepts for customer rewards programmes.  
+	Backend development on these projects is now done using a custom stack of Java, Jersey, Guice, Hibernate and MySQL hosted using Amazon Web Services (after migrating away from JBoss). Mobile frontend development includes native Android, iOS and Windows Phone, while web frontends are typically built using AngularJS and Bootstrap.
 
-	
 **Ghent University** *PhD Student* __2006 to 2011__
 	Research: designing and simulating an architecture and accompanying optimisation algorithms for efficient use of computational and network resources in a media environment such as can be found in the broadcast industry.
 	Valorisation of research with external partners: GEISHA and IFIP projects.
-	**Technical Environment** Websphere Enterprise Service Bus, NS-2 network simulator.
 
 ------
 
 ### Projects
 
 * **linkID**
-	[https://linkID.be](https://linkid.be)
+	[https://linkid.be](https://linkid.be)
 	Platform providing identity management, mobile payments and customer rewards with a strong focus on security and user privacy. Mobile clients available for Android, iOS and Windows Phone.
 	
 * **GuidoGids**
@@ -62,8 +50,7 @@
 	The Kookkado project offers electronic gift cards for use with culinary related products and services. It is built upon the capabilities natively offered by the linkID project, allowing users to purchase, redeem and use gift cards using a single mobile app.
 	
 * **iWish**
-    [https://iwish.be](https://iwish.be)
-    iWish.be offers an online wish list with companion iOS and Android apps. It features managing one's wish lists, social features, searching for products, adding products from barcodes and ordering products directly through the iwish platform in collaboration with select partners.
+    [iWish.be](https://iwish.be) offers an online wish list with companion iOS and Android apps. It features managing one's wish lists, social features, searching for products, adding products from barcodes and ordering products directly through the iwish platform in collaboration with select partners.
 
 ------
 
