@@ -27,7 +27,7 @@
 ### Experience
 
 **linkID** *Software Development Engineer* __2011 to present__
-	Responsibilities: designing and maintaining a number of different projects as a 'full-stack developer'. These include maintaining and improving the backend and mobile apps for the linkID project and creating the accompanying Windows Phone app. Also designed and implemented backends and mobile apps for the GuidoGids project as well as the iWish project. Furthermore maintained and expanded the Kookkado project backend and web frontend. Other side projects included developing a captive wifi portal, implementing OAuth 2.0  and developing various proof of concepts, for example for customer rewards programmes.  
+	Responsibilities: designing and maintaining a number of different projects as a 'full-stack developer'. These include maintaining and improving the backend and mobile apps for the linkID project and creating the accompanying Windows Phone app. Also designed and implemented backends and mobile apps for the GuidoGids project as well as the iWish project. Furthermore maintained and expanded the Kookkado project backend and webshop. Other side projects included developing a captive wifi portal, implementing OAuth 2.0  and developing various proof of concepts, for example for customer rewards programmes.  
 	Backend development on these projects is typically done using a custom stack of Java, Jersey, Guice, Hibernate and MySQL hosted using Amazon Web Services (after migrating away from JBoss). Mobile frontend development includes native Android, iOS and Windows Phone, while web frontends are typically built using AngularJS and Bootstrap.
 
 **Ghent University** *PhD Student* __2006 to 2011__
@@ -39,18 +39,16 @@
 ### Projects
 
 * **linkID**
-	[https://linkid.be](https://linkid.be)
-	Platform providing identity management, mobile payments and customer rewards with a strong focus on security and user privacy. Mobile clients available for Android, iOS and Windows Phone.
+	The [linkID](https://linkid.be) platform provides identity management, mobile payments and customer rewards with a strong focus on security and user privacy. Mobile clients available for [Android](https://play.google.com/store/apps/details?id=net.link.qr&hl=en), [iOS](https://itunes.apple.com/sr/app/linkid/id522371545?l=nl&mt=8) and [Windows Phone](https://www.microsoft.com/en-us/store/p/linkid/9wzdncrd1tb9).
 	
 * **GuidoGids**
-	Mobile app for [Android](https://play.google.com/store/apps/details?id=net.link.guidogids) and [iOS](https://itunes.apple.com/nz/app/guido-city-guide/id910957078?mt=8) providing a city guide coupled with coupons and discounts, specifically targeted at students. Features include a custom built backend to provide continuous background updates, geofencing and anonymous usage monitoring.
+	Mobile app for [Android](https://play.google.com/store/apps/details?id=net.link.guidogids) and [iOS](https://itunes.apple.com/nz/app/guido-city-guide/id910957078?mt=8) providing a city guide coupled with coupons and discounts, specifically targeted at students. Features include geofencing, anonymous usage monitoring and a custom built backend to provide continuous background updates.
 
 * **Kookkado**
-	[https://kookado.nl](https://kookado.nl)
-	The Kookkado project offers electronic gift cards for use with culinary related products and services. It is built upon the capabilities natively offered by the linkID project, allowing users to purchase, redeem and use gift cards using a single mobile app.
+	The [Kookkado](https://kookado.nl) project offers electronic gift cards for use with culinary related products and services. It is built upon the capabilities natively offered by the linkID project, allowing users to purchase, redeem and use gift cards using a single mobile app.
 	
 * **iWish**
-    [iWish.be](https://iwish.be) offers an online wish list with companion iOS and Android apps. It features managing one's wish lists, social features, searching for products, adding products from barcodes and ordering products directly through the iwish platform in collaboration with select partners.
+    [iWish.be](https://iwish.be) offers an online wish list with companion [iOS](https://itunes.apple.com/app/iwish.be/id569147291?mt=8) and [Android](https://play.google.com/store/apps/details?id=net.link.iwish&hl=en) apps. It features managing one's wish lists, social features, searching for products, adding products from barcodes and ordering products directly through the iwish platform in collaboration with select partners.
 
 ------
 
