@@ -3,7 +3,7 @@
 
 > [steindesmet.com](http://resume.steindesmet.com)
 > [stein.desmet@gmail.com](mailto:stein.desmet@gmail.com)
-<!-- > +32 496 11 79 01 -->
+> +32 496 11 79 01
 
 ------
 
