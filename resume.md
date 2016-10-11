@@ -27,7 +27,7 @@
 ### Experience
 
 **linkID** *Software Development Engineer* __2011 to present__
-	Designing and maintaining a number of different projects as a 'full-stack developer'. Some of these responsibilities include: maintaining and improving backend and mobile apps for the linkID project and creating the Windows Phone app. Designed and implemented backend and mobile apps for the GuidoGids project as well as the iWish project. Maintained and expanded the Kookkado project backend and web frontend. Other side projects include developing a captive wifi portal, implementing OAuth 2.0  and developing various proof of concepts for example for customer rewards programmes.  
+	Responsibilities: designing and maintaining a number of different projects as a 'full-stack developer'. These include maintaining and improving the backend and mobile apps for the linkID project and creating the accompanying Windows Phone app. Also designed and implemented backends and mobile apps for the GuidoGids project as well as the iWish project. Furthermore maintained and expanded the Kookkado project backend and web frontend. Other side projects included developing a captive wifi portal, implementing OAuth 2.0  and developing various proof of concepts, for example for customer rewards programmes.  
 	Backend development on these projects is typically done using a custom stack of Java, Jersey, Guice, Hibernate and MySQL hosted using Amazon Web Services (after migrating away from JBoss). Mobile frontend development includes native Android, iOS and Windows Phone, while web frontends are typically built using AngularJS and Bootstrap.
 
 **Ghent University** *PhD Student* __2006 to 2011__
